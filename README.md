@@ -5,7 +5,7 @@
 - 💬 Ask me about Machine Learning, Deep Learning and NLP
 - 📫 How to reach me -> LinkedIn : www.linkedin.com/in/parthaland/, Mail : alandparth@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: No Degree, Just a kid😁
 
 <!---
 heres-parth/heres-parth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
