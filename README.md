@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @heres-parth
+- 👋 Hi, I’m Parth Aland
 - 👀 I’m interested in GenAI, Machine Learning, Deep Learning and NLP
 - 🌱 I’m currently learning Deep Learning and NLP
 - 💞️ I’m looking to collaborate on AI
